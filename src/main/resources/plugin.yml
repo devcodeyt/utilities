@@ -1,0 +1,7 @@
+name: utilities
+version: 0.1-beta
+author: devcode
+main: me.devcode.utilities.Utilities
+commands:
+  build:
+  rank:
